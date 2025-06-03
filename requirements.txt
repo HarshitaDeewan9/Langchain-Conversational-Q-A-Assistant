@@ -3,5 +3,6 @@ langchain_huggingface
 langchain_groq
 langchain
 langchain_core
+torch
 transformers
 dotenv
